@@ -1,1 +1,7 @@
-project start
+The Creation Project
+
+천지창조 프로젝트 
+
+Author : WOF , Lallama
+
+8.16.2015 ~ 
